@@ -42,37 +42,39 @@ The objective of this project was to identify customer churn patterns and recomm
 
 ## 📈 Executive Overview
 
-*(Insert screenshot here)*
+<img width="877" height="490" alt="Pic3" src="https://github.com/user-attachments/assets/6c3781ab-75d8-4984-a375-329d7260316e" />
 
 ---
 
 ## 👥 Customer Demographics
 
-*(Insert screenshot here)*
+<img width="871" height="484" alt="Pic4" src="https://github.com/user-attachments/assets/03753e04-1f39-4b40-b0d0-894041a5c71e" />
 
 ---
 
 ## 📉 Customer Churn Analysis
 
-*(Insert screenshot here)*
+<img width="877" height="495" alt="Pic5" src="https://github.com/user-attachments/assets/09bb9016-49f8-49b1-92ba-971d6e206d32" />
+<img width="877" height="485" alt="Pic6" src="https://github.com/user-attachments/assets/17581e13-31ef-482b-91e3-b9f5fbef2a2d" />
+
 
 ---
 
 ## 💰 Financial Analysis
 
-*(Insert screenshot here)*
+<img width="878" height="495" alt="Pic7" src="https://github.com/user-attachments/assets/7beef4bb-d592-443b-8cde-6b0d0cceda52" />
 
 ---
 
 ## 🎯 Customer Segmentation
 
-*(Insert screenshot here)*
+<img width="879" height="489" alt="Pic8" src="https://github.com/user-attachments/assets/e4d89f45-2804-4237-80d7-a22d5410d3a3" />
 
 ---
 
 ## 📋 Executive Summary
 
-*(Insert screenshot here)*
+<img width="870" height="486" alt="Pic2" src="https://github.com/user-attachments/assets/bf5a0e39-7c8a-4e3f-9019-62976faa179c" />
 
 ---
 
